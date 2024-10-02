@@ -1,0 +1,72 @@
+h1{
+    display: flex;
+    color: blue;
+    font-size: 200%;
+
+}
+#name{
+    color: orange;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    margin: 75px;
+    padding-left: 180px;
+}
+.item{
+    display: flex;
+    color: rgb(182, 124, 42);
+    font-size: 110% ;
+    text-decoration: none ;
+}
+#compt{
+    color: rgb(66, 142, 106);
+    font-size: 150%;
+   font-weight: bold;
+}
+#imgs{
+    width: 300px;
+    height: 300px;
+}
+#sb{
+    color: rgb(83, 138, 177);
+    background-color: chartreuse;
+    font-size: 175%;
+    font-weight: 800;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 8px;
+}
+#sb2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 4, 255);
+    font-size: 125%;
+    font-weight: 500;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 4px;
+}
+#sb:hover{
+    color: rgb(12, 12, 12);
+    background-color: rgb(300,300,300);
+    cursor: pointer;
+    border-color: blue;
+    border-radius: 8px;
+    border-width: 2px;
+}
+#kw{
+    border-width: 5px;
+}
+#internal{
+color: rgba(0, 0, 0, 0.412);
+m
+}
+#internal:hover{
+    color: white;
+    cursor: text;
+}
