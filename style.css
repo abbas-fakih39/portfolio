@@ -70,3 +70,17 @@ m
     color: white;
     cursor: text;
 }
+.container{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.child1{
+    background-color: red;
+    width: 100%;
+}
+.child2{
+    background-color: green;
+    width: 100%;
+}
